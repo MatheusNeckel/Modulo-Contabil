@@ -23,4 +23,4 @@ como **IPI** e **PIS**, aplicando conceitos de **Programação Orientada a Objet
 ## ⚙️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/modulo-contabil.git
+   git clone https://github.com/MatheusNeckel/Modulo-Contabil.git
